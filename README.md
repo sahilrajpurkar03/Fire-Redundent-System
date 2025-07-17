@@ -23,7 +23,7 @@ This project demonstrates a **fire detection and response system** using an **ES
 | MLX90640 Sensor   | I2C (SDA/SCL)| SDA: GPIO21, SCL: GPIO22    |
 | Actuator (via Relay)| External Power | 5V/12V depending on load |
 
-📌 **[View Pin Diagram](docs/pin_diagram.png)**
+![View Pin Diagram](docs/pin_diagram.png)
 
 ---
 
