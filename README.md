@@ -1,4 +1,4 @@
-# 🔥 ESP32-S3 Fire Redundant System using IR Thermal Imaging
+# ESP32-S3 Fire Redundant System using IR Thermal Imaging
 
 This project demonstrates a **fire detection and response system** using an **ESP32-S3**, an **MLX90640 IR thermal camera**, and a **relay-actuated fire extinguisher**. It detects high-temperature zones using thermal imaging and automatically activates an actuator while sending a real-time alert over WiFi.
 
