@@ -7,7 +7,7 @@
 // ------------------------
 // Pin Definitions
 // ------------------------
-#define RELAY_PIN 10            // GPIO pin connected to relay module
+#define RELAY_PIN 34            // GPIO pin connected to relay module
 
 // ------------------------
 // System Configuration

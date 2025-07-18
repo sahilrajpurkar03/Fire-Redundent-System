@@ -19,11 +19,11 @@ This project demonstrates a **fire detection and response system** using an **ES
 
 | Component         | ESP32-S3 Pin | Description                 |
 |------------------|--------------|-----------------------------|
-| Relay Module      | GPIO10       | Controls fire extinguisher  |
+| Relay Module      | GPIO34       | Controls fire extinguisher  |
 | MLX90640 Sensor   | I2C (SDA/SCL)| SDA: GPIO21, SCL: GPIO22    |
 | Actuator (via Relay)| External Power | 5V/12V depending on load |
 
-![View Pin Diagram](docs/pin_diagram.png)
+![View Pin Diagram](docs/pin_diagram.jpg)
 
 ---
 
