@@ -1,0 +1,6 @@
+/include/secrets.h
+*.pyc
+__pycache__/
+/build/
+/dist/
+*.bin
